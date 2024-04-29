@@ -191,12 +191,6 @@ $ forge install
 $ forge build
 ```
 
-### Test
-
-```shell
-$ forge test
-```
-
 ## License
 
 The primary license for JOJO smart contract EVM is the Business Source License 1.1 (BUSL-1.1), see LICENSE. Minus the following exceptions:
